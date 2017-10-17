@@ -8,6 +8,8 @@ body{
 	margin:auto;
 	background-image:url("https://raw.githubusercontent.com/bethrobson/Head-First-JavaScript-Programming/master/chapter8/board.jpg") ;
 	background-repeat: no-repeat;
+	float:left;
+	background-size: cover;
 }
 #messageArea{
 	position: absolute;
